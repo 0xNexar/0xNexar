@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/0xnexar" target="blank"><img src="https://img.shields.io/twitter/follow/0xnexar?logo=twitter&style=for-the-badge" alt="0xnexar" /></a> </p>
 
-- 📫 How to reach me **https://x.com/0xNexar**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
